@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello, Bonjour 👋
 
-<!--
-**W1W1-M/W1W1-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm William, I'm passionate about *tech* and very enthusiastic when it comes to developing on *Apple* platforms.
 
-Here are some ideas to get you started:
+📱iOS Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Super 85**: *Current release v1.7*
+  - My first iOS app
+  - @vailable on the [App Store](https://apps.apple.com/app/super-85/id1564978634)
+  - Closed source
+  - Swift & SwiftUI
+  - Core Data & CloudKit
+  - Born early 2021
+- **PackAPrefPane**: *Current release v2.1*
+  - My first Swift Package
+  - Used in Super 85
+  - Open source
+  - Swift & SwiftUI
+  - DocC
+  - Born late 2021
+- **Lentit**: *Work In Progress*
+  - MVVM architecture
+  - Open source
+  - Swift & SwiftUI
+  - Born early 2022
