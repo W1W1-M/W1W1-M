@@ -4,7 +4,7 @@ I'm William, I'm passionate about *tech* and very enthusiastic when it comes to 
 
 📱iOS Projects:
 
-- **Super 85**: *Current release v1.7*
+- **Super 85**: *Current release v1.9*
   - My first iOS app
   - @vailable on the [App Store](https://apps.apple.com/app/super-85/id1564978634)
   - Closed source
@@ -18,8 +18,9 @@ I'm William, I'm passionate about *tech* and very enthusiastic when it comes to 
   - Swift & SwiftUI
   - DocC
   - Born late 2021
-- **Lentit**: *Work In Progress*
+- **Lentit**: *Work In Progress v0.2*
   - MVVM architecture
   - Open source
   - Swift & SwiftUI
+  - EventKit & Contacts
   - Born early 2022
