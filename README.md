@@ -18,7 +18,7 @@ I'm William, I'm passionate about *tech* and very enthusiastic when it comes to 
   - Swift & SwiftUI
   - DocC
   - Born late 2021
-- **Lentit**: *Work In Progress v0.2*
+- **Lentit**: *Alpha release v0.3*
   - MVVM architecture
   - Open source
   - Swift & SwiftUI
