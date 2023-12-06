@@ -4,7 +4,7 @@ I'm William, I'm passionate about *tech* and very enthusiastic when it comes to 
 
 📱iOS Projects:
 
-- **Super 85**: *Current release v1.9*
+- **Super 85**: *Current release v1.11*
   - My first iOS app
   - @vailable on the [App Store](https://apps.apple.com/app/super-85/id1564978634)
   - Closed source
